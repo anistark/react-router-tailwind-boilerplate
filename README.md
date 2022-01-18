@@ -31,6 +31,10 @@ src
    └── Start.js
 ```
 
+### Screenshot:
+
+![Landing Screenshot](./screenshots/landing.png "Landing Screenshot")
+
 ## How to use this Boilerplate: 🔧
 1. Clone the new repo: `git clone git@github.com:anistark/react-router-tailwind-boilerplate.git`. (You can also **fork** the repo and then clone it.)
 2. `cd react-router-tailwind-boilerplate`
