@@ -10,21 +10,15 @@
 ## Structure: ⚙️
 ```
 src
-├── App.css
 ├── App.js
-├── App.test.js
 ├── components
 │   ├── Footer.js
 │   ├── Hero.js
 │   └── Nav.js
-├── index.css
 ├── index.js
-├── logo.png
-├── reportWebVitals.js
 ├── routes
 │   ├── routes.js
 │   └── userRoutes.js
-├── setupTests.js
 └── views
    ├── Home.js
    ├── NotFoundPage.js
