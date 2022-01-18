@@ -131,4 +131,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ---
 
-*Follow [anistark](https://twitter.com/kranirudha) for more ✨*
+*Follow me on [github](https://github.com/anistark) and [twitter](https://twitter.com/kranirudha) for more updates and staying updates with my work ✨*
